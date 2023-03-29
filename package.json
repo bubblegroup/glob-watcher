@@ -1,10 +1,10 @@
 {
-  "name": "glob-watcher",
+  "name": "@bubblegroup/glob-watcher",
   "version": "5.0.6",
   "description": "Watch globs and execute a function upon change, with intelligent defaults for debouncing and queueing.",
   "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
   "contributors": [],
-  "repository": "gulpjs/glob-watcher",
+  "repository": "bubblegroup/glob-watcher",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
